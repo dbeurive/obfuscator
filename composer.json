@@ -1,0 +1,8 @@
+{
+  "require": {
+     "phpdocumentor/phpdocumentor": "*",
+     "phpunit/phpunit": "*",
+     "symfony/console": "*",
+     "nikic/php-parser": "2.*"
+  }
+}
